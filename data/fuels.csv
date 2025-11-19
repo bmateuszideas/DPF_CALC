@@ -1,0 +1,9 @@
+fuel_id,region,name,standard,sulfur_ppm,density_kg_per_l,notes
+FUEL_EURO6_ON,EU,ULSD Euro 5/6 diesel,EN 590,10,0.835,"typical modern European on-road diesel, max 10 ppm sulfur"
+FUEL_EURO3_ON,EU,Euro 3 era diesel,legacy,350,0.840,"older spec diesel with higher sulfur content"
+FUEL_OFFROAD_HIGH_S,EU/Global,Off-road / heating oil high sulfur,legacy,1000,0.840,"high sulfur diesel / heating oil, not road-legal in many regions"
+FUEL_US_ULSD,US,US ULSD on-road,ASTM D975,15,0.835,"US ultra-low sulfur diesel, max 15 ppm sulfur"
+FUEL_LOW_S_DIESEL,Generic,Low sulfur diesel,legacy,50,0.835,"transitional low-sulfur diesel (before full ULSD rollout)"
+FUEL_BIODIESEL_B7,EU,B7 diesel blend,EN 590+B100,10,0.840,"B7 FAME blend, similar sulfur to ULSD, slightly higher density"
+FUEL_BIODIESEL_B20,Generic,B20 biodiesel blend,local,10,0.845,"higher FAME content, slightly higher density, sulfur from mineral part"
+FUEL_TEST_HIGH_S_2000PPM,Lab,Test high-sulfur diesel,lab,2000,0.840,"synthetic test case for sensitivity analysis"

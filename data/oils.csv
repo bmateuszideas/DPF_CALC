@@ -1,0 +1,9 @@
+oil_id,brand,product_name,acea_class,viscosity_grade,sulfated_ash_pct,phosphorus_pct,sulfur_pct,density_kg_per_l,base_oil_type,notes
+OIL_C3_5W30_GENERIC,Generic,ACEA C3 5W-30 Low SAPS,C3,5W-30,0.8,0.08,0.3,0.850,synthetic,"typical low-SAPS mid SAPS passenger car oil"
+OIL_C3_5W40_GENERIC,Generic,ACEA C3 5W-40 Low SAPS,C3,5W-40,0.8,0.08,0.3,0.855,synthetic,"slightly higher viscosity, similar SAPS"
+OIL_C4_5W30_GENERIC,Generic,ACEA C4 5W-30 Very Low SAPS,C4,5W-30,0.5,0.07,0.2,0.845,synthetic,"very low sulfated ash for sensitive DPF systems"
+OIL_C1_5W30_GENERIC,Generic,ACEA C1 5W-30 Ultra Low SAPS,C1,5W-30,0.5,0.05,0.2,0.845,synthetic,"ultra low SAPS, fuel economy oriented"
+OIL_A3B4_5W40_GENERIC,Generic,ACEA A3/B4 5W-40 High SAPS,A3/B4,5W-40,1.2,0.10,0.4,0.860,synthetic,"older high-SAPS spec, higher ash loading to DPF"
+OIL_HDEO_CJ4_15W40,Generic,Heavy Duty CJ-4 15W-40,CJ-4,15W-40,1.0,0.10,0.4,0.875,semi-synthetic,"typical heavy-duty diesel oil with controlled ash"
+OIL_HDEO_CK4_5W30,Generic,Heavy Duty CK-4 5W-30,CK-4,5W-30,1.0,0.10,0.4,0.865,synthetic,"modern HDEO, lower SAPS but still higher than C-class PCMO"
+OIL_OEM_DPF_0W30,OEM,OEM DPF-protect 0W-30,C2,0W-30,0.7,0.07,0.3,0.840,synthetic,"OEM-branded low-SAPS oil for DPF-equipped engines"
